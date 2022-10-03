@@ -95,7 +95,7 @@ o	We can alternate the program in such a way that we can create software for  de
 **•	Future upgradations:**
 File handling can be implemented to save record permanently. Secondly, AI Decision Tree can be implemented in future upgradation for analyzing the data of mass number of users. This can be used to analyze the COVID-19 positivity ratio in a specific region and makes decision making easier for administration.
 
-![image](https://user-images.githubusercontent.com/92652883/193617769-80ad4d96-81e4-4b2c-9c96-37c691fd10a5.png)
+
 
 
 
