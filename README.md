@@ -1,4 +1,6 @@
 # Self-Analysis-COVID-19-Test-Software
+
+**Introduction:**
 The project is specifically designed for institutes, in order to keep the COVID-19 result status and make students and teachers aware about their situation. The software asks the user’s general data, like name, age, blood group and vaccination information. Afterwards, user is asked 5 questions. As the user answers the questions, a report is formulated using the input data and a record is saved whether the user is COVID-19 positive or COVID-19 negative. 
 **
 **•	Solution Approach:****
@@ -70,6 +72,16 @@ Elif Node2 == Teacher:
 Then, Print RN1
 Elif Node5 == No:
 Then, Print RN2
+
+**Output:**
+
+![image](https://user-images.githubusercontent.com/92652883/193618042-20f9b1e6-9cd5-4f5d-84fb-91bdf6223734.png)
+
+![image](https://user-images.githubusercontent.com/92652883/193618076-9afd99e1-2008-4f50-96ec-e6b5d0aef82e.png)
+
+![image](https://user-images.githubusercontent.com/92652883/193618122-3130c124-6193-4c22-8af1-cf425ed353f6.png)
+
+![image](https://user-images.githubusercontent.com/92652883/193618172-bf7602b6-2257-46c1-9648-6220b6950d8b.png)
 
 
 **•	Applications:**
